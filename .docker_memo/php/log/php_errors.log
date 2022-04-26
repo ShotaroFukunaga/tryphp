@@ -1,1 +1,60 @@
 [25-Apr-2022 12:29:34 Asia/Tokyo] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /var/www/html/user/index.php on line 3
+[25-Apr-2022 13:49:58 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/user/action/register.php on line 15
+[26-Apr-2022 00:19:10 Asia/Tokyo] PHP Warning:  array_push() expects parameter 1 to be array, null given in /var/www/html/common/validation.php on line 11
+[26-Apr-2022 00:19:10 Asia/Tokyo] PHP Warning:  array_push() expects parameter 1 to be array, null given in /var/www/html/common/validation.php on line 11
+[26-Apr-2022 00:19:10 Asia/Tokyo] PHP Warning:  array_push() expects parameter 1 to be array, null given in /var/www/html/common/validation.php on line 11
+[26-Apr-2022 00:19:10 Asia/Tokyo] PHP Warning:  array_push() expects parameter 1 to be array, null given in /var/www/html/common/validation.php on line 24
+[26-Apr-2022 00:19:10 Asia/Tokyo] PHP Warning:  array_push() expects parameter 1 to be array, null given in /var/www/html/common/validation.php on line 49
+[26-Apr-2022 00:19:10 Asia/Tokyo] PHP Warning:  array_push() expects parameter 1 to be array, null given in /var/www/html/common/validation.php on line 61
+[26-Apr-2022 00:19:10 Asia/Tokyo] PHP Warning:  array_push() expects parameter 1 to be array, null given in /var/www/html/common/validation.php on line 61
+[26-Apr-2022 00:19:10 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to undefined function mailAddressDuplicationCheck() in /var/www/html/user/action/register.php:30
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/user/action/register.php on line 30
+[26-Apr-2022 00:19:45 Asia/Tokyo] PHP Warning:  array_push() expects parameter 1 to be array, null given in /var/www/html/common/validation.php on line 11
+[26-Apr-2022 00:19:45 Asia/Tokyo] PHP Warning:  array_push() expects parameter 1 to be array, null given in /var/www/html/common/validation.php on line 11
+[26-Apr-2022 00:19:45 Asia/Tokyo] PHP Warning:  array_push() expects parameter 1 to be array, null given in /var/www/html/common/validation.php on line 11
+[26-Apr-2022 00:19:45 Asia/Tokyo] PHP Warning:  array_push() expects parameter 1 to be array, null given in /var/www/html/common/validation.php on line 24
+[26-Apr-2022 00:19:45 Asia/Tokyo] PHP Warning:  array_push() expects parameter 1 to be array, null given in /var/www/html/common/validation.php on line 49
+[26-Apr-2022 00:19:45 Asia/Tokyo] PHP Warning:  array_push() expects parameter 1 to be array, null given in /var/www/html/common/validation.php on line 61
+[26-Apr-2022 00:19:45 Asia/Tokyo] PHP Warning:  array_push() expects parameter 1 to be array, null given in /var/www/html/common/validation.php on line 61
+[26-Apr-2022 00:19:45 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to undefined function mailAddressDuplicationCheck() in /var/www/html/user/action/register.php:30
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/user/action/register.php on line 30
+[26-Apr-2022 09:27:36 Asia/Tokyo] PHP Warning:  array_push() expects parameter 1 to be array, null given in /var/www/html/common/validation.php on line 11
+[26-Apr-2022 09:27:36 Asia/Tokyo] PHP Warning:  array_push() expects parameter 1 to be array, null given in /var/www/html/common/validation.php on line 11
+[26-Apr-2022 09:27:36 Asia/Tokyo] PHP Warning:  array_push() expects parameter 1 to be array, null given in /var/www/html/common/validation.php on line 11
+[26-Apr-2022 09:27:36 Asia/Tokyo] PHP Warning:  array_push() expects parameter 1 to be array, null given in /var/www/html/common/validation.php on line 24
+[26-Apr-2022 09:27:36 Asia/Tokyo] PHP Warning:  array_push() expects parameter 1 to be array, null given in /var/www/html/common/validation.php on line 49
+[26-Apr-2022 09:27:36 Asia/Tokyo] PHP Warning:  array_push() expects parameter 1 to be array, null given in /var/www/html/common/validation.php on line 61
+[26-Apr-2022 09:27:36 Asia/Tokyo] PHP Warning:  array_push() expects parameter 1 to be array, null given in /var/www/html/common/validation.php on line 61
+[26-Apr-2022 09:27:36 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to undefined function mailAddressDuplicationCheck() in /var/www/html/user/action/register.php:30
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/user/action/register.php on line 30
+[26-Apr-2022 10:55:48 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to undefined function mailAddressDuplicationCheck() in /var/www/html/user/action/register.php:30
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/user/action/register.php on line 30
+[26-Apr-2022 11:00:48 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to undefined function mailAddressDuplicationCheck() in /var/www/html/user/action/register.php:30
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/user/action/register.php on line 30
+[26-Apr-2022 11:03:11 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to undefined function mailAddressDuplicationCheck() in /var/www/html/user/action/register.php:30
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/user/action/register.php on line 30
+[26-Apr-2022 11:04:24 Asia/Tokyo] PHP Parse error:  syntax error, unexpected '$_SESSION' (T_VARIABLE) in /var/www/html/user/action/register.php on line 30
+[26-Apr-2022 11:05:41 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to undefined function mailAddressDuplicationCheck() in /var/www/html/user/action/register.php:30
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/user/action/register.php on line 30
+[26-Apr-2022 11:10:51 Asia/Tokyo] PHP Notice:  Undefined index: user_name in /var/www/html/user/action/register.php on line 6
+[26-Apr-2022 11:10:51 Asia/Tokyo] PHP Notice:  Undefined index: user_email in /var/www/html/user/action/register.php on line 7
+[26-Apr-2022 11:10:51 Asia/Tokyo] PHP Notice:  Undefined index: user_password in /var/www/html/user/action/register.php on line 8
+[26-Apr-2022 11:11:37 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to undefined function mailAddressDuplicationCheck() in /var/www/html/user/action/register.php:28
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/user/action/register.php on line 28
+[26-Apr-2022 11:20:30 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/user/action/register.php on line 43
