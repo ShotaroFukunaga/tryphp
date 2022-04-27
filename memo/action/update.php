@@ -23,7 +23,7 @@
       $statement->bindParam(":user_id",$user_id);
       $statement->execute();
     }
-    /*                        ↓excuteで実行が指示されたらハンドライベントとしてSQLが発火する*/
+    /*                        ↓excuteで実行が指示されたらハンドライベントとしてSQLが発火するddd*/
     if($statement = $database_handler->prepare("SELECT id, title, content FROM memos WHERE id = :edit_id AND user_id = :user_id")){
       $statement->bindParam(":edit_id",$edit_id);
       $statement->bindParam(":user_id",$user_id);
