@@ -80,3 +80,11 @@ Stack trace:
 [27-Apr-2022 12:26:26 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/memo/action/update.php on line 21
 [27-Apr-2022 12:32:15 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/memo/action/update.php on line 20
 [27-Apr-2022 12:32:15 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/memo/action/update.php on line 21
+[27-Apr-2022 13:29:31 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/memo/action/update.php on line 20
+[27-Apr-2022 13:29:31 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/memo/action/update.php on line 21
+[27-Apr-2022 13:29:44 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/memo/action/update.php on line 20
+[27-Apr-2022 13:29:44 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/memo/action/update.php on line 21
+[27-Apr-2022 13:42:43 Asia/Tokyo] PHP Warning:  require(../../commond/database.php): failed to open stream: No such file or directory in /var/www/html/memo/action/delete.php on line 3
+[27-Apr-2022 13:42:43 Asia/Tokyo] PHP Fatal error:  require(): Failed opening required '../../commond/database.php' (include_path='.:/usr/local/lib/php') in /var/www/html/memo/action/delete.php on line 3
+[27-Apr-2022 14:06:04 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/memo/action/update.php on line 20
+[27-Apr-2022 14:06:04 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/memo/action/update.php on line 21
