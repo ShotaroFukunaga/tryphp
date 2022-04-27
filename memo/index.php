@@ -32,7 +32,7 @@
   //echo "<pre><code>";
   //var_dump($memos,$edit_id,$edit_title,$edit_content);
   //echo "</code></pre>";
-  //exit;
+  //exit;dddd
 
 ?>
 <!DOCTYPE html>
